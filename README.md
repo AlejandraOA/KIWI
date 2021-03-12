@@ -8,6 +8,7 @@
   6. Ya abierto el documento, selecciona la carperta build y da click en App (qrcode for apk), esperar a que se genere el QR.
   7. Escanear con la aplicación de MIT AI2 Companion.
   8. Comenzar la descarga y aceptar todos los permisos.
-  Da click en el ícono en tu celular.
+ 
+ Da click en el ícono en tu celular.
 
 Disfruta tu momento KIWI
